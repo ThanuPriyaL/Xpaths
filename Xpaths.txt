@@ -1,0 +1,54 @@
+petshop
+
+first name://input[@name='account.firstName']
+
+last name://input[@name='account.lastName']
+
+Email://input[@name='account.email']
+
+phone://input[@name='account.phone']
+
+address1://input[@name='account.address1']
+
+adress2://input[@name='account.address2']
+
+city://input[@name='account.city']
+
+state://input[@name='account.state']
+
+zip://input[@name='account.zip']
+
+country://input[@name='account.country']
+
+UserId://input[@name='username']
+
+New password://input[@name='password']
+
+Repeat password://input[@name='repeatedPassword']
+
+Language preference://select[@name='account.languagePreference']
+
+favourite category://select[@name='account.favouriteCategoryId']
+
+Enable my list://input[@name='account.listOption']
+
+Enable mybanner://input[@name='account.bannerOption']
+
+save my account://input[@name='newAccount']
+----------------------------------------------------------------------------------------------------
+Amazon
+
+Your name://input[@name='customerName']
+
+Mobile number email://input[@name='email']
+
+password://input[@name='password']
+
+password again://input[@name='passwordCheck']
+
+search bar://input[@name='field-keywords']
+
+choose location://input[@id='GLUXZipUpdateInput']
+
+
+
